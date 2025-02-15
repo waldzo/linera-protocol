@@ -95,7 +95,7 @@ linera transfer 5 --from "$CHAIN2" --to "$CHAIN1"
 # Query balances again
 linera query-balance "$CHAIN1"
 linera query-balance "$CHAIN2"
-```
+````
 
 More complex examples may be found in our [developer manual](https://linera.dev) as well
 as the [example applications](./examples) in this repository.
